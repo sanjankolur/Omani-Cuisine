@@ -1,0 +1,69 @@
+{
+  "test_loss": 1.05856565395991,
+  "test_accuracy": 0.7266666666666667,
+  "macro_precision": 0.7368023591475603,
+  "macro_recall": 0.7270833333333333,
+  "macro_f1": 0.7275804206686559,
+  "per_class": {
+    "omani_halwa": {
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1": 0.8,
+      "support": 15
+    },
+    "omani_harees": {
+      "precision": 0.6923076923076923,
+      "recall": 0.6,
+      "f1": 0.6428571428571429,
+      "support": 15
+    },
+    "omani_luqaimat": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 16
+    },
+    "omani_madrouba": {
+      "precision": 0.5263157894736842,
+      "recall": 0.6666666666666666,
+      "f1": 0.5882352941176471,
+      "support": 15
+    },
+    "omani_majboos": {
+      "precision": 0.9090909090909091,
+      "recall": 0.6666666666666666,
+      "f1": 0.7692307692307693,
+      "support": 15
+    },
+    "omani_marqooq": {
+      "precision": 0.5294117647058824,
+      "recall": 0.5625,
+      "f1": 0.5454545454545454,
+      "support": 16
+    },
+    "omani_mashuai": {
+      "precision": 0.6,
+      "recall": 0.6,
+      "f1": 0.6,
+      "support": 15
+    },
+    "omani_mishkak": {
+      "precision": 0.875,
+      "recall": 0.875,
+      "f1": 0.875,
+      "support": 16
+    },
+    "omani_ragag_bread": {
+      "precision": 0.6666666666666666,
+      "recall": 0.8333333333333334,
+      "f1": 0.7407407407407407,
+      "support": 12
+    },
+    "omani_shuwa": {
+      "precision": 0.7692307692307693,
+      "recall": 0.6666666666666666,
+      "f1": 0.7142857142857143,
+      "support": 15
+    }
+  }
+}

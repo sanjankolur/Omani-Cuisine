@@ -1,0 +1,7 @@
+{
+    "test_images": 136,
+    "correct_predictions": 94,
+    "incorrect_predictions": 42,
+    "accuracy": 0.6912,
+    "error_rate": 0.3088
+}

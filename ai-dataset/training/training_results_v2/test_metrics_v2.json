@@ -1,0 +1,11 @@
+{
+  "test_loss": 1.099001263761345,
+  "test_accuracy": 0.6911764705882353,
+  "macro_precision": 0.7090520418693792,
+  "macro_recall": 0.6844010156510156,
+  "macro_f1": 0.6801777389277389,
+  "best_validation_macro_f1": 0.6551276577324672,
+  "train_images": 584,
+  "validation_images": 123,
+  "test_images": 136
+}

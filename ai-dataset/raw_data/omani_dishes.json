@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Omani Shuwa",
+    "name_ar": "شواء عماني",
+    "category": "Meat",
+    "region": "Across Oman",
+    "description": "Marinated goat or lamb slow-cooked for 24 to 48 hours in a sealed underground pit oven (Tanour). Wrapped in banana or date palm leaves and seasoned with vinegar, garlic, coriander, and Omani spice blend.",
+    "ingredients_summary": "goat meat, garlic, vinegar, coriander, cumin, chili, cloves, date palm leaves",
+    "cooking_method": "Pit-roasted underground over hot embers for 24-48 hours",
+    "cultural_notes": "Centerpiece of Eid al-Fitr and Eid al-Adha celebrations across the Sultanate.",
+    "dietary_tags": ["halal", "gluten-free", "high-protein", "traditional"],
+    "nutrition": {
+      "serving_description": "1 generous portion (350g)",
+      "calories_kcal": 560,
+      "protein_g": 42.0,
+      "carbohydrates_g": 6.0,
+      "fat_g": 38.0,
+      "fiber_g": 1.5,
+      "source_note": "Omani Culinary Heritage reference estimate"
+    }
+  },
+  {
+    "name": "Majboos",
+    "name_ar": "مكبوس / مجبوس",
+    "category": "Rice",
+    "region": "Across Oman",
+    "description": "Fragrant basmati rice infused with saffron, cardamom, cloves, cinnamon, and black dried lime (Loomi), layered with slow-simmered chicken or lamb.",
+    "ingredients_summary": "basmati rice, chicken, dried black lime, cardamom, cloves, cinnamon, onions, garlic, saffron",
+    "cooking_method": "Simmered spiced broth absorbed into parboiled rice",
+    "cultural_notes": "Served as a welcoming hospitality feast for guests and Friday family lunches.",
+    "dietary_tags": ["halal", "gluten-free"],
+    "nutrition": {
+      "serving_description": "1 plate with meat (400g)",
+      "calories_kcal": 580,
+      "protein_g": 32.0,
+      "carbohydrates_g": 68.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.5,
+      "source_note": "Omani recipe nutrient calculations"
+    }
+  },
+  {
+    "name": "Harees",
+    "name_ar": "هريس",
+    "category": "Wheat",
+    "region": "Across Oman",
+    "description": "A comforting, velvety porridge of whole cracked wheat slow-cooked with tender shredded beef or chicken and beaten vigorously with an Omani wooden paddle (Mضراب), topped with melted local ghee.",
+    "ingredients_summary": "coarse wheat grains, chicken or beef, local ghee, salt, cinnamon",
+    "cooking_method": "Slow-simmered and beaten until uniform porridge consistency",
+    "cultural_notes": "A quintessential staple of Ramadan iftar tables and community gatherings.",
+    "dietary_tags": ["halal", "comfort-food"],
+    "nutrition": {
+      "serving_description": "1 bowl (300g)",
+      "calories_kcal": 450,
+      "protein_g": 24.0,
+      "carbohydrates_g": 54.0,
+      "fat_g": 16.0,
+      "fiber_g": 6.0,
+      "source_note": "Traditional cereal & meat composite estimate"
+    }
+  },
+  {
+    "name": "Omani Halwa",
+    "name_ar": "حلوى عمانية",
+    "category": "Dessert",
+    "region": "Nizwa & Barka",
+    "description": "World-famous Omani confection simmered for hours in large copper cauldrons (Mirjal). Made from tapioca starch, clarified butter, caramelized sugar, saffron, crushed cardamom, rose water from Jebel Akhdar, and almonds.",
+    "ingredients_summary": "sugar, cornstarch, ghee, rosewater, saffron, cardamom, roasted almonds, cashews",
+    "cooking_method": "Continuous high-heat reduction and stirring in large copper cauldrons",
+    "cultural_notes": "The primary symbol of Omani hospitality; universally served alongside hot bitter Omani Kahwa.",
+    "dietary_tags": ["vegetarian", "gluten-free"],
+    "nutrition": {
+      "serving_description": "2 small scoops (60g)",
+      "calories_kcal": 280,
+      "protein_g": 2.5,
+      "carbohydrates_g": 48.0,
+      "fat_g": 9.5,
+      "fiber_g": 0.8,
+      "source_note": "Standard artisanal confectionery benchmark"
+    }
+  },
+  {
+    "name": "Mashuai",
+    "name_ar": "مشواي",
+    "category": "Seafood",
+    "region": "Coastal Oman",
+    "description": "Spit-roasted or baked whole Kingfish seasoned with ground coriander, turmeric, and sea salt, served alongside a savory turmeric-lemon basmati rice with Loomi sauce.",
+    "ingredients_summary": "whole kingfish, basmati rice, turmeric, lemons, loomi, coriander, garlic",
+    "cooking_method": "Open flame spit-roast or oven-baked, served with spiced citrus rice",
+    "cultural_notes": "Signature coastal delicacy from Sur, Quriyat, and the Al Batinah fishing communities.",
+    "dietary_tags": ["halal", "gluten-free", "pescatarian", "high-protein"],
+    "nutrition": {
+      "serving_description": "1 fish steak with rice (380g)",
+      "calories_kcal": 490,
+      "protein_g": 36.0,
+      "carbohydrates_g": 52.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "source_note": "Marine food nutritional analysis"
+    }
+  },
+  {
+    "name": "Mishkak",
+    "name_ar": "مشكاك",
+    "category": "Street Food",
+    "region": "Across Oman",
+    "description": "Tender skewers of marinated beef, mutton, or chicken grilled over red-hot charcoal on seaside promenades. Basted continuously with spicy-sour tamarind garlic dip (Tamarhindi sauce).",
+    "ingredients_summary": "beef or mutton cubes, tamarind paste, garlic, black pepper, chili, vinegar, cumin",
+    "cooking_method": "Charcoal-grilled on open skewer grates",
+    "cultural_notes": "The king of Omani street food, heavily popular at night on beaches and roadside souqs.",
+    "dietary_tags": ["halal", "gluten-free", "high-protein"],
+    "nutrition": {
+      "serving_description": "3 skewers with tamarind sauce (180g)",
+      "calories_kcal": 340,
+      "protein_g": 31.0,
+      "carbohydrates_g": 12.0,
+      "fat_g": 18.0,
+      "fiber_g": 1.0,
+      "source_note": "Grilled meat composition reference"
+    }
+  },
+  {
+    "name": "Madrouba",
+    "name_ar": "مضروبة",
+    "category": "Rice",
+    "region": "Al Batinah & Musandam",
+    "description": "A savory porridge of beaten rice and shredded tender chicken simmered with tomatoes, aromatic dried lime, ginger, and turmeric until thick and creamy.",
+    "ingredients_summary": "rice, chicken, tomatoes, dried lime, onion, ginger, turmeric, ghee",
+    "cooking_method": "Long braise beaten with a wooden spoon into a savory puree",
+    "cultural_notes": "Cherished winter comfort food across the northern and peninsula regions.",
+    "dietary_tags": ["halal", "gluten-free"],
+    "nutrition": {
+      "serving_description": "1 bowl (320g)",
+      "calories_kcal": 420,
+      "protein_g": 26.0,
+      "carbohydrates_g": 48.0,
+      "fat_g": 13.0,
+      "fiber_g": 3.0,
+      "source_note": "Recipe nutritional calculation"
+    }
+  },
+  {
+    "name": "Paplou",
+    "name_ar": "بابلو",
+    "category": "Soup",
+    "region": "Sur & Coastal Oman",
+    "description": "A spicy, citrusy yellow coastal broth made with fresh kingfish or tuna steaks, whole garlic cloves, crushed black peppercorns, turmeric, and sour green mango or dried lime juice.",
+    "ingredients_summary": "fresh tuna or kingfish, turmeric, black lime, green mango, garlic, chili, fresh coriander",
+    "cooking_method": "Quick rolling boil to keep fish tender and broth vibrant",
+    "cultural_notes": "A traditional fisherman's soup designed to invigorate, served hot alongside plain white rice.",
+    "dietary_tags": ["halal", "gluten-free", "pescatarian", "dairy-free"],
+    "nutrition": {
+      "serving_description": "1 large bowl (350ml with fish)",
+      "calories_kcal": 260,
+      "protein_g": 28.0,
+      "carbohydrates_g": 8.0,
+      "fat_g": 11.0,
+      "fiber_g": 1.2,
+      "source_note": "Seafood broth baseline"
+    }
+  },
+  {
+    "name": "Khubz Ragag",
+    "name_ar": "خبز رقاق",
+    "category": "Bread",
+    "region": "Across Oman",
+    "description": "Wafer-thin, ultra-crispy unleavened flatbread quickly spread over a blazing domed iron griddle (Tawa). Often folded hot with spreadable processed cheese, raw egg, honey, or spicy Omani chips.",
+    "ingredients_summary": "wheat flour, water, salt, optional cheese and honey",
+    "cooking_method": "Rapid griddle baking on a convex iron plate",
+    "cultural_notes": "An everyday staple breakfast and dinner bread freshly made in Omani households.",
+    "dietary_tags": ["halal", "vegetarian"],
+    "nutrition": {
+      "serving_description": "2 plain sheets (80g)",
+      "calories_kcal": 190,
+      "protein_g": 6.0,
+      "carbohydrates_g": 38.0,
+      "fat_g": 1.2,
+      "fiber_g": 2.2,
+      "source_note": "Flatbread standard compositional table"
+    }
+  },
+  {
+    "name": "Omani Kahwa",
+    "name_ar": "قهوة عمانية",
+    "category": "Beverage",
+    "region": "Across Oman",
+    "description": "Traditional lightly roasted Arabica coffee brewed with freshly ground green cardamom pods, saffron threads, and sometimes rose water. Served unsweetened in tiny cups (Finjan).",
+    "ingredients_summary": "lightly roasted coffee beans, cardamom, saffron, rose water",
+    "cooking_method": "Decoction boiled in an ornate traditional Dallah pot",
+    "cultural_notes": "An indispensable ritual of welcome in every Omani Majlis; served continuously with fresh dates.",
+    "dietary_tags": ["vegan", "gluten-free", "zero-sugar", "beverage"],
+    "nutrition": {
+      "serving_description": "1 finjan cup (60ml)",
+      "calories_kcal": 4,
+      "protein_g": 0.2,
+      "carbohydrates_g": 0.6,
+      "fat_g": 0.1,
+      "fiber_g": 0.0,
+      "source_note": "Beverage USDA equivalent"
+    }
+  }
+]
+

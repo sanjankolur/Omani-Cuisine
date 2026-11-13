@@ -1,0 +1,26 @@
+{
+  "classes": [
+    "omani_halwa",
+    "omani_harees",
+    "omani_luqaimat",
+    "omani_madrouba",
+    "omani_majboos",
+    "omani_marqooq",
+    "omani_mashuai",
+    "omani_mishkak",
+    "omani_ragag_bread",
+    "omani_shuwa"
+  ],
+  "class_to_idx": {
+    "omani_halwa": 0,
+    "omani_harees": 1,
+    "omani_luqaimat": 2,
+    "omani_madrouba": 3,
+    "omani_majboos": 4,
+    "omani_marqooq": 5,
+    "omani_mashuai": 6,
+    "omani_mishkak": 7,
+    "omani_ragag_bread": 8,
+    "omani_shuwa": 9
+  }
+}

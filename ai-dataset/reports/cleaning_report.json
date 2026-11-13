@@ -1,0 +1,103 @@
+{
+  "total_scanned": 972,
+  "total_cleaned": 884,
+  "total_reviewed": 88,
+  "reasons": {
+    "blurry": 66,
+    "low_resolution": 2,
+    "corrupt": 0,
+    "duplicate": 20
+  },
+  "by_category": {
+    "omani_halwa": {
+      "scanned": 100,
+      "cleaned": 91,
+      "reviewed": 9,
+      "blurry": 7,
+      "low_res": 2,
+      "duplicate": 0,
+      "corrupt": 0
+    },
+    "omani_harees": {
+      "scanned": 100,
+      "cleaned": 86,
+      "reviewed": 14,
+      "blurry": 14,
+      "low_res": 0,
+      "duplicate": 0,
+      "corrupt": 0
+    },
+    "omani_luqaimat": {
+      "scanned": 100,
+      "cleaned": 91,
+      "reviewed": 9,
+      "blurry": 7,
+      "low_res": 0,
+      "duplicate": 2,
+      "corrupt": 0
+    },
+    "omani_madrouba": {
+      "scanned": 92,
+      "cleaned": 84,
+      "reviewed": 8,
+      "blurry": 7,
+      "low_res": 0,
+      "duplicate": 1,
+      "corrupt": 0
+    },
+    "omani_majboos": {
+      "scanned": 100,
+      "cleaned": 93,
+      "reviewed": 7,
+      "blurry": 3,
+      "low_res": 0,
+      "duplicate": 4,
+      "corrupt": 0
+    },
+    "omani_marqooq": {
+      "scanned": 100,
+      "cleaned": 92,
+      "reviewed": 8,
+      "blurry": 5,
+      "low_res": 0,
+      "duplicate": 3,
+      "corrupt": 0
+    },
+    "omani_mashuai": {
+      "scanned": 100,
+      "cleaned": 90,
+      "reviewed": 10,
+      "blurry": 5,
+      "low_res": 0,
+      "duplicate": 5,
+      "corrupt": 0
+    },
+    "omani_mishkak": {
+      "scanned": 99,
+      "cleaned": 89,
+      "reviewed": 10,
+      "blurry": 9,
+      "low_res": 0,
+      "duplicate": 1,
+      "corrupt": 0
+    },
+    "omani_ragag_bread": {
+      "scanned": 83,
+      "cleaned": 77,
+      "reviewed": 6,
+      "blurry": 6,
+      "low_res": 0,
+      "duplicate": 0,
+      "corrupt": 0
+    },
+    "omani_shuwa": {
+      "scanned": 98,
+      "cleaned": 91,
+      "reviewed": 7,
+      "blurry": 3,
+      "low_res": 0,
+      "duplicate": 4,
+      "corrupt": 0
+    }
+  }
+}

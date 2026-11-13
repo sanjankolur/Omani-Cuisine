@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "target_resolution": "224x224",
+    "channels": 3,
+    "tensor_dtype": "torch.float32",
+    "total_processed": 946,
+    "total_verified": 946,
+    "errors": 0
+  },
+  "splits": {
+    "train": {
+      "count": 658,
+      "augmented": true,
+      "tensor_shape": [
+        3,
+        224,
+        224
+      ],
+      "value_range": [
+        -2.1179,
+        2.64
+      ],
+      "categories": {
+        "omani_halwa": 70,
+        "omani_harees": 70,
+        "omani_luqaimat": 68,
+        "omani_madrouba": 63,
+        "omani_majboos": 67,
+        "omani_marqooq": 67,
+        "omani_mashuai": 66,
+        "omani_mishkak": 68,
+        "omani_ragag_bread": 56,
+        "omani_shuwa": 63
+      }
+    },
+    "val": {
+      "count": 138,
+      "augmented": false,
+      "tensor_shape": [
+        3,
+        224,
+        224
+      ],
+      "value_range": [
+        -2.1179,
+        2.64
+      ],
+      "categories": {
+        "omani_halwa": 15,
+        "omani_harees": 15,
+        "omani_luqaimat": 14,
+        "omani_madrouba": 13,
+        "omani_majboos": 14,
+        "omani_marqooq": 14,
+        "omani_mashuai": 14,
+        "omani_mishkak": 14,
+        "omani_ragag_bread": 12,
+        "omani_shuwa": 13
+      }
+    },
+    "test": {
+      "count": 150,
+      "augmented": false,
+      "tensor_shape": [
+        3,
+        224,
+        224
+      ],
+      "value_range": [
+        -2.1179,
+        2.64
+      ],
+      "categories": {
+        "omani_halwa": 15,
+        "omani_harees": 15,
+        "omani_luqaimat": 16,
+        "omani_madrouba": 15,
+        "omani_majboos": 15,
+        "omani_marqooq": 16,
+        "omani_mashuai": 15,
+        "omani_mishkak": 16,
+        "omani_ragag_bread": 12,
+        "omani_shuwa": 15
+      }
+    }
+  }
+}

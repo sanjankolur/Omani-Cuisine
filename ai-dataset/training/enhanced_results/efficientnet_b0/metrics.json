@@ -1,0 +1,8 @@
+{
+  "architecture": "efficientnet_b0",
+  "test_accuracy_standard": 0.72,
+  "test_accuracy_tta": 0.7133333333333334,
+  "test_macro_f1": 0.7154676314970433,
+  "test_macro_precision": 0.7299593818634066,
+  "test_macro_recall": 0.7125
+}

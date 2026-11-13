@@ -1,0 +1,16 @@
+                   precision    recall  f1-score   support
+
+      omani_halwa     0.8667    0.8667    0.8667        15
+     omani_harees     0.5263    0.6667    0.5882        15
+   omani_luqaimat     0.8889    1.0000    0.9412        16
+   omani_madrouba     0.6667    0.5333    0.5926        15
+    omani_majboos     0.8462    0.7333    0.7857        15
+    omani_marqooq     0.5000    0.6250    0.5556        16
+    omani_mashuai     0.5882    0.6667    0.6250        15
+    omani_mishkak     1.0000    0.7500    0.8571        16
+omani_ragag_bread     0.7500    0.7500    0.7500        12
+      omani_shuwa     0.6667    0.5333    0.5926        15
+
+         accuracy                         0.7133       150
+        macro avg     0.7300    0.7125    0.7155       150
+     weighted avg     0.7309    0.7133    0.7162       150

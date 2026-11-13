@@ -1,0 +1,11 @@
+﻿class,total_test_images,correct,incorrect,recall
+omani_halwa,15,12,3,0.8
+omani_harees,15,9,6,0.6
+omani_luqaimat,16,16,0,1.0
+omani_madrouba,15,10,5,0.6667
+omani_majboos,15,10,5,0.6667
+omani_marqooq,16,9,7,0.5625
+omani_mashuai,15,9,6,0.6
+omani_mishkak,16,14,2,0.875
+omani_ragag_bread,12,10,2,0.8333
+omani_shuwa,15,10,5,0.6667
